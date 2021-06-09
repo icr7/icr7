@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Spring & Angular
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mail me on techicr7@gmail.com
+- 📫 How to reach me : mail me on icr7.dev@outlook.com
 
 <!---
 tech-icr7/tech-icr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
