@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishwar singh
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Spring & Angular
-- 💞️ I’m looking to collaborate on factsparrow.com
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me : mail me on icr7.dev@outlook.com
 
 <!---
