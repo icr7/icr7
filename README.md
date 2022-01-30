@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishwar singh
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning Spring & Angular
+- 🌱 I’m currently learning Spring & React
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me : mail me on techicr7@gmail.com
 
