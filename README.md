@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishwar singh
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning Spring & React
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Spring cloud native and Data engineering.
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me : mail me on dev.ishwar1999@gmail.com
 
